@@ -47,3 +47,11 @@
 <img src="https://raw.githubusercontent.com/marcolous/marcolous/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="center" style="text-decoration: none;">Only hard work allowed 😎</h2>
+
+
+
+
+
+<img src="https://i.imgur.com/xEpO0az.png" alt="Your Image" style="width: 100%;" />
